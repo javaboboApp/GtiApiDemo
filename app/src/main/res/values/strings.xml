@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GitAppApi</string>
+    <string name="search_username">Search Username</string>
+    <string name="search">Search</string>
+    <string name="toast_error_msg">Something was wrong :(</string>
+    <string name="text_to_search_no_valid">Text to search not valid</string>
+    <string name="error_in_the_request">Error in the request</string>
+    <string name="list_is_empty_msg">The user does not have repositories</string>
+</resources>
